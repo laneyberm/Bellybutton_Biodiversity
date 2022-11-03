@@ -14,7 +14,7 @@ To test her hypothesis, Rosa has sampled the navels of people across the country
 ## Results
 The below image is the initial webpage without using the filters.  
 
-<img src="https://github.com/laneyberm/UFOs/blob/main/static/images/index.png" width="800">
+<img src="https://github.com/laneyberm/Bellybutton_Biodiversity/blob/main/static/images/index.png" width="800">
 
 Users will enter their search in the "Filter Search" shown below. They can filter the data down by date, city, state, country, and shape. Users need to utilize lower case letters with typing in the search. In the search inputs, there is an example of the format needed for each search category. 
 
